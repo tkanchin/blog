@@ -2,14 +2,13 @@
 title: Teja Kanchinadam blog
 email: 
 description: "Uncertainity is the truth"
-baseurl: "//tkanchin.github.io/blog"
-url: "//tkanchin.github.io/blog"
+baseurl: "/blog"
+url: "https://tkanchin.github.io/"
 twitter_username: kanchinadamteja
 github_username:  tkanchin
 
 # Build settings
 markdown: kramdown
-theme: minima
 permalink: pretty
 
 highlighter: rouge
@@ -18,11 +17,4 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+
