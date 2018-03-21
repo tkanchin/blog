@@ -1,0 +1,18 @@
+# Site settings
+title: Teja Kanchinadam blog
+email: 
+description: "Uncertainity is the truth"
+baseurl: ""
+url: "http://tkanchin.github.io/blog"
+twitter_username: kanchinadamteja
+github_username:  tkanchin
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
