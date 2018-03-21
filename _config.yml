@@ -2,8 +2,8 @@
 title: Teja Kanchinadam blog
 email: 
 description: "Uncertainity is the truth"
-baseurl: "https://tkanchin.github.io/blog"
-url: "https://tkanchin.github.io/blog"
+baseurl: ""
+url: "/blog"
 twitter_username: kanchinadamteja
 github_username:  tkanchin
 
